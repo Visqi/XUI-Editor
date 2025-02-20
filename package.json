@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "terser index.js -c drop_console=true,dead_code=true,passes=3,unsafe=true -m toplevel=true,eval=true -o dist/index.min.js"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.1",
+    "terser": "^5.38.2"
+  }
+}

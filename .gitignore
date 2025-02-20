@@ -1,0 +1,5 @@
+node_modules/
+textures/
+textures_original/
+xui/
+package-lock.json
