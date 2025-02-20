@@ -3,14 +3,6 @@ session_start();
 require "previewFunctions.php";
 require "parsingFunctions.php";
 
-/**
- * shop_resell_popup index Problems..
- * result.xui not loading at all?
- * 
- * issues on LABELS example tutorial fail ?? Issues with Alignment? Maybe...
- * issues with moving invisible items
- * if a texture has a label make it modifyable via margin
- */
 
 $doStart = true;
 
