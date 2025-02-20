@@ -2,6 +2,10 @@
 
 A web-based tool for managing and modifying XUI files and textures for a certain anime shooter game.
 
+## Public Demo
+
+https://s4-tools.nullified.xyz/
+
 ## Description
 
 This tool helps you manage and modify XUI files and textures for a certain anime shooter game. It provides a user-friendly interface to work with game interface elements and their associated textures.
